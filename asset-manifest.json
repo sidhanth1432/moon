@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/moon/static/css/main.20b72792.css",
+    "main.js": "/moon/static/js/main.58b144df.js",
+    "static/js/453.80efc53e.chunk.js": "/moon/static/js/453.80efc53e.chunk.js",
+    "static/media/mountains_front.png": "/moon/static/media/mountains_front.25a10186b8e276488f43.png",
+    "static/media/mountains_behind.png": "/moon/static/media/mountains_behind.38e14b5c40238f9f4c60.png",
+    "static/media/stars.png": "/moon/static/media/stars.fb95e3d1302794752cfa.png",
+    "static/media/moon.png": "/moon/static/media/moon.ab81903c55e2dd21511b.png",
+    "index.html": "/moon/index.html",
+    "main.20b72792.css.map": "/moon/static/css/main.20b72792.css.map",
+    "main.58b144df.js.map": "/moon/static/js/main.58b144df.js.map",
+    "453.80efc53e.chunk.js.map": "/moon/static/js/453.80efc53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b72792.css",
+    "static/js/main.58b144df.js"
+  ]
+}
